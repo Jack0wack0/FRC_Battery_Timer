@@ -14,3 +14,15 @@ This took me so long to do, so if you enjoy it please let me know! I would love 
 remix this and create new ways to improve it!
 
 I originally designed this for my FRC team, Obsidian Robotics 5454
+
+
+There are multiple modules you need to install. 
+
+- OpenCV (cv2)  [pip install OpenCV]
+- time [pip install time]
+- os [pip install os]
+- sys [pip install sys]
+- pydub [pip install pydub]
+- colorama [pip install colorama]
+
+You will also need the audio files, and to specify where their path is in the program.

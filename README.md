@@ -2,6 +2,7 @@
 This is a Python script that reads QR codes and starts timers based on them.
 
 This uses OpenCV, a program used for facial recognition, to detect and decode QR codes.
+overkill? maybe.
 The program then uses the QR code to start a timer assigned to that specific QR code. 
 If the same QR code is scanned again, it ends the timer
 
